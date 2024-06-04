@@ -4,7 +4,7 @@ const pay = {
     ownerName: "Rahul",
     rollNo: "1",
     ownerEmail: "rahul@abc.edu",
-    accessCode: "FKDLjg",
+    accessCode: "zWpata",
     clientID: "37bb493c-73d3-47ea-8675-21f66ef9b735",
     clientSecret: "XOyo1ORPasKWODAN",
 
